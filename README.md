@@ -15,3 +15,4 @@ A pack containing essential homebrew software for the Nintendo Switch.
 * [Mission Control](https://github.com/ndeadly/MissionControl)
 * [Lockpick_RCM](https://github.com/s1204IT/Lockpick_RCM)
 * [Sigpatches](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-package3.571543/)
+* [Tinfoil](https://tinfoil.io/)
